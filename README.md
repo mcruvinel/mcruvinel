@@ -25,6 +25,3 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/ixpok/ixpok/blob/output/snake.svg" alt="Snake animation" />
-
-###
