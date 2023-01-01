@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻✨ Hard Studies since 2020<br>🎮 Currently working on LuizaLabs<br>🎯 Goals: Reach my best perform<br>🌐🕸</p>
+<p align="left">👨‍💻✨ Hard Studies since 2020<br>🎮 Currently working on LuizaLabs<br>🎯 Goals: Reach my best perform!!<br>🌐🕸</p>
 
 ###
 
