@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">👨‍💻✨ Hard Studies since 2020<br>🎮 Currently working on LuizaLabs<br>🎯 Goals: Reach my best perform!!<br>🌐🕸</p>
+<p align="left">👨‍💻✨ Hard Studies since 2020<br>🎮 Currently working on LuizaLabs<br>🎯 
+  Goals: Reach my best perform!!<br>
+  Make 1 commit everyday in 2023
+  <br>🌐🕸</p>
 
 ###
 
@@ -23,7 +26,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
 </div>
 
-green squaree
-eeee
 ###
 
