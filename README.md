@@ -1,30 +1,46 @@
-<h1 align="left"></h1>
+# Hey, I'm Matheus Cruvinel! 👨‍💻
 
-###
+## Software Engineer | Cloud Specialist | Documenter
 
-<p align="left">I'm a Brazilian Back-end Developer</p>
+---
 
-###
+## About Me
 
-<h2 align="left">About me</h2>
+I'm quiet, and I code.  
+Currently working at **[LuizaLabs](https://luizalabs.com)** as a **Software Engineer** with **3+ years** of experience.  
+I love building scalable systems, automating tests, and writing clear and concise documentation.
 
-###
+---
 
-<p align="left">👨‍💻✨ Hard Studies since 2020<br>🎮 Currently working on LuizaLabs<br>🎯 
-  Goals: Reach my best perform!!<br>
-  Make 1 commit everyday in 2023
-  <br>🌐🕸</p>
+## Tech Stack
 
-###
+### Languages & Frameworks
+- **Python**  
+- **Ruby** and **Ruby on Rails**  
+- **Swift** (Library for Object Storage)  
+- **JavaScript (ES6+)**  
+- **React**  
 
-<h2 align="left">I code with</h2>
+### Tools & Platforms
+- **Cloud Storage** (Object Storage, S3)  
+- **IAM (Identity and Access Management)**  
+- **Automated Testing** (TDD, BDD)  
+- **Docker** and **Kubernetes**  
+- **Git** and **CI/CD Tools**  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" width="52" alt="ruby logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-</div>
+## Experience
 
-###
+### **LuizaLabs**  
+**Software Engineer | 3+ Years**  
+- Developed and maintained systems for **IAM (Identity and Access Management)**.  
+- Built and maintained **automated tests** for critical applications.  
+- Worked on **frontend development** using React and JavaScript.  
+- Currently focused on **Object Storage for Cloud** using **Swift** and **Python**.  
+- Authored **external and internal documentation** for technical and non-technical audiences.  
+
+---
+
+### Code. Document. Repeat.
 
