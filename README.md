@@ -16,23 +16,34 @@ I prefer the terminal over the mouse, plain text over noise, and clarity over cl
 - ☁️ Experienced with cloud-native development (S3 APIs, Swift, Kong)  
 - 🧪 Strong on testing, CI/CD, and debugging production systems  
 - ✍️ Passionate about writing documentation that actually helps  
-- 🛠️ Toolmaker mindset
-- 
+- 🛠️ Toolmaker mindset  
+
 ---
 
-## Experience
+## 💼 Experience
 
 ### **LuizaLabs**  
-**Software Engineer | 3+ Years**  
+**Software Engineer | 3+ Years**
 
-### Code. Document. Repeat.
+> Code. Document. Repeat.
 
+---
 
-🏞️ Outside the Terminal
-🚵‍♂️ Mountain biker — endurance, interval training & brutal climbs
+## 🏞️ Outside the Terminal
 
-🏋️ Gym rat — strength work to fuel the trail
+🚵‍♂️ Mountain biker — endurance, interval training & brutal climbs  
+🏋️ Gym rat — strength work to fuel the trail  
+🎮 Gamer — strategy, sandbox, and retro FPS  
+🧭 A minimalist with an explorer’s spirit  
 
-🎮 Gamer — strategy, sandbox, and retro FPS
+---
 
-🧭 A minimalist with an explorer’s spirit
+<h2 align="center">🏅 Holopin Badges</h2>
+
+<p align="center">
+  <a href="https://holopin.io/@mcruvinel">
+    <img src="https://holopin.me/mcruvinel" alt="@mcruvinel's Holopin badges" />
+  </a>
+</p>
+
+---
