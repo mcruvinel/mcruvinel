@@ -9,9 +9,6 @@
 Quiet mind, sharp code.  
 I'm a backend engineer with a taste for infrastructure, clean interfaces, and systems that don’t break under pressure.
 
-At **[LuizaLabs](https://luizalabs.com)**, I build internal tools and APIs that serve real teams at scale.  
-I prefer the terminal over the mouse, plain text over noise, and clarity over cleverness.
-
 - Focused on simplicity, performance, and observability  
 - Experienced with cloud-native development (S3 APIs, Swift, Kong)  
 - Strong on testing, CI/CD, and debugging production systems  
