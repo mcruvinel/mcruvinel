@@ -17,11 +17,6 @@ I'm a backend engineer with a taste for infrastructure, clean interfaces, and sy
 
 ---
 
-## Experience
-
-### **LuizaLabs**  
-**Software Engineer | 3+ Years**
-
 > Code. Document. Repeat.
 
 ---
