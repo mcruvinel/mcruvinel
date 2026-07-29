@@ -80,6 +80,7 @@ My approach is simple:
 
 ---
 
+```
 <h2 align="center">🏅 Holopin Badges</h2>
 
 <p align="center">
@@ -87,6 +88,8 @@ My approach is simple:
     <img src="https://holopin.me/mcruvinel" alt="@mcruvinel's Holopin badges" />
   </a>
 </p>
+
+```
 
 ---
 
